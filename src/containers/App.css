@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'HarryPotter';
+  src: url('http://www.fontsaddict.com/fontface/harrypotter7.ttf');
+}
+
+h1 {
+	font-family: 'HarryPotter';
+	font-weight: 200;
+	color: lightblue;
+}
